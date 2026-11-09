@@ -141,7 +141,7 @@ One link: on an iPhone with TrollStore it hands the file straight over, anywhere
 
 ### Not jailbroken, no TrollStore
 
-Add `https://source.ahmadrashed.com` in ESign, Feather or KSign and install it from there — that source also has the full build, with WhatsApp's own extensions. In AltStore or SideStore, add `https://altstore.ahmadrashed.com`.
+Add `https://source.ahmadrashed.com` in ESign, Feather or KSign and install it from there. In AltStore or SideStore, add `https://altstore.ahmadrashed.com`. Both sources have two builds: the original, and a duplicate with its own bundle ID that installs next to the original WhatsApp.
 
 Or download the `.ipa` from [Releases](../../releases) and sign it with Sideloadly or ESign — or take the `.dylib` and inject it into your own copy of WhatsApp, then sign and install.
 
