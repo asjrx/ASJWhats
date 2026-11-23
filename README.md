@@ -34,7 +34,7 @@ Signing it yourself? `https://source.ahmadrashed.com` in ESign, Feather or KSign
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/5-deleted.webp"><img src="screenshots/5-deleted-light.webp" width="24%" alt="Deleted messages stay"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/6-themeeditor.webp"><img src="screenshots/6-themeeditor-light.webp" width="24%" alt="Design your own theme"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/7-status.webp"><img src="screenshots/7-status-light.webp" width="24%" alt="Watch statuses, unseen"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/7-archive.webp"><img src="screenshots/7-archive-light.webp" width="24%" alt="Every picture, every status"></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="screenshots/8-updates.webp"><img src="screenshots/8-updates-light.webp" width="24%" alt="See what changed, as it happens"></picture>
 </p>
 
