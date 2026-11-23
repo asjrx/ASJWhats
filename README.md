@@ -83,7 +83,10 @@ Before you log in, a gear on WhatsApp's welcome screen opens the same settings.
 - **Watch statuses unseen** — send the view only when you want to
 - Save any status, and keep the ones that get deleted
 - **Updates timeline** — new profile pictures, statuses, About and group changes, as they happen
+- A contact's saved pictures and statuses sorted, shared or deleted together — a long-press on their status opens them
+- Saved pictures and statuses in landscape, on iOS 16 and later
 - Every status you post kept, with its viewers
+- How many people saw your status, on My status
 - Statuses at the top of Chats, and long videos split into parts for your status
 - Confirm likes and reactions before they go, and hide quick reactions
 
@@ -104,7 +107,7 @@ Before you log in, a gear on WhatsApp's welcome screen opens the same settings.
 - Save profile pictures, and export voice messages
 - Longer GIFs, and a forward button in the media viewer
 - **More in the + menu** — a screenshot of the whole chat, images and GIFs from the web, photos sent as documents
-- A video note from any video, and a voice message from any sound or song
+- A video note from any video, from the + menu or the camera, and a voice message from any sound or song
 
 ### Media vault
 
@@ -134,7 +137,7 @@ Before you log in, a gear on WhatsApp's welcome screen opens the same settings.
 - **App lock** with Face ID, Touch ID or passcode — for WhatsApp, archived chats and starred messages
 - Lock any chat, and cover WhatsApp in the app switcher
 - **Encrypted chat backup** — with your own password, kept on your phone. No iCloud, no Google
-- **Backup center** — ASJWhats' own data (settings, vault, recordings and more) saved to a file and restored
+- **Backup center** — ASJWhats' own data (settings, vault, recordings and more) saved to a file and restored, all of it or only the parts you choose
 - A storage manager that shows what takes space, largest files first
 - Lock ASJWhats' settings
 
@@ -144,7 +147,7 @@ Before you log in, a gear on WhatsApp's welcome screen opens the same settings.
 - **Messages that always arrive** on a sideloaded WhatsApp
 - **Fake location** — share any place you pick on the map
 - Show a name and photo you choose for specific numbers, on your phone only
-- **Settings profiles** — a set of settings for each WhatsApp account
+- **Settings profiles** — a set of settings for each WhatsApp account, shared as a file to another iPhone
 - **Links for the Shortcuts app** — open an ASJWhats screen, or turn a switch on or off
 - **Polls** — every vote kept, who hasn't voted, vote alerts and poll templates
 - **Search every option**, in English or Arabic
